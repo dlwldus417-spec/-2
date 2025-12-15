@@ -1,0 +1,71 @@
+﻿date,meal,food,category,reason,mood,satisfaction
+11월 10일,lunch,햄버거,패스트푸드,쉐이크 같이 먹고 싶어서,happy,4
+11월 10일,dinner,순두부찌개,한식/국물,속을 따뜻하게 하고 싶어서,tired,4
+11월 11일,lunch,규동,일식,간단하고 든든해서,tired,4
+11월 11일,dinner,치킨,양식/치킨,스트레스 해소 용도,stressed,4
+11월 12일,lunch,냉면,면류,시원한 국물 먹고 싶어서,neutral,4
+11월 12일,dinner,칼국수,면류/국물,따뜻한 국물 먹고 싶어서,tired,4
+11월 13일,lunch,된장찌개,한식/국물,밥 먹고 싶어서,neutral,4
+11월 13일,dinner,샌드위치,간편식,야근 중 급하게,rushed,3
+11월 14일,lunch,불고기덮밥,한식,달달한 덮밥이 먹고 싶어서,tired,4
+11월 14일,dinner,모츠나베,일식/국물,따뜻한 국물 먹고 싶어서,neutral,4
+11월 15일,lunch,치즈김밥,간편식,시간 부족,rushed,3
+11월 15일,dinner,치즈라볶이,분식,빨리 나오고 든든해서,rushed,4
+11월 16일,lunch,초밥,일식,기분 좋아서 ,happy,5
+11월 16일,dinner,돈가스,일식,좋아하는 메뉴라서,happy,5
+11월 17일,lunch,라멘,면류,얼큰한게 땡겨서,tired,4
+11월 17일,dinner,소고기,한식,스트레스 받아서,stressed,4
+11월 18일,lunch,파스타,양식,점심 약속,happy,5
+11월 18일,dinner,오뎅탕,한식,맥주 먹고 싶어서,neutral,4
+11월 19일,lunch,순두부찌개,한식/국물,해장,tired,4
+11월 19일,dinner,라면,면류/국물,시간 부족,stressed,3
+11월 20일,lunch,샌드위치,간편식,이동이 많아서,rushed,3
+11월 20일,dinner,삼겹살,한식,소주 먹고 싶어서,neutral,4
+11월 21일,lunch,육회비빔밥,한식,점심약속,hungry,4
+11월 21일,dinner,소고기,한식,회식,stressed,4
+11월 22일,lunch,김치찌개,한식/국물,해장,tired,4
+11월 22일,dinner,치킨,양식/치킨,스트레스 해소,stressed,4
+11월 23일,lunch,메밀,면류/국물,먹고 싶어서,tired,4
+11월 23일,dinner,회덮밥,일식,상큼한 게 먹고 싶어서,neutral,4
+11월 24일,lunch,돈부리,일식,간단하고 든든해서,neutral,4
+11월 24일,dinner,파스타,양식,저녁 약속,happy,5
+11월 25일,lunch,샐러드,양식,다이어트,stressed,2
+11월 25일,dinner,짜장면,중식,다이어트 포기,happy,5
+11월 26일,lunch,김치볶음밥,한식,빠르게 먹고 싶어서,rushed,3
+11월 26일,dinner,김치찌개,중식/국물,얼큰하게 먹고 싶어서,stressed,4
+11월 27일,lunch,전복죽,일식,건강검진하고 간단히,hungry,4
+11월 27일,dinner,마파두부밥,중식,먹고 싶어서,neutral,4
+11월 28일,lunch,파스타,양식,기분 좋아서,happy,5
+11월 28일,dinner,훠궈,중식,저녁 약속,happy,5
+11월 29일,lunch,뷔페,양식,결혼식,rushed,4
+11월 29일,dinner,삼겹살,한식,저녁 약속,stressed,4
+11월 30일,lunch,샌드위치,간편식,귀찮아서,rushed,3
+11월 30일,dinner,부대찌개,한식/국물,날씨 추워서,tired,4
+12월 01일,lunch,김치찌개,중식/국물,얼큰하게 먹고 싶어서,stressed,4
+12월 01일,dinner,초밥,일식,기분 좋아서 ,happy,5
+12월 02일,lunch,낙지볶음,한식,스트레스 해소,neutral,4
+12월 02일,dinner,된장찌개,한식/국물,밥 먹고 싶어서,neutral,4
+12월 03일,lunch,돈까스,일식/튀김,좋아하는 메뉴라서,neutral,4
+12월 03일,dinner,라면,면류/국물,수업 가기 전에 빨리 먹으려고,rushed,3
+12월 04일,lunch,떡볶이,분식,튀김만두랑 같이 먹으려고,rushed,3
+12월 04일,dinner,샐러드,양식,건강하게 먹고 싶어서,neutral,4
+12월 05일,lunch,김밥,간편식,바빠서,stressed,3
+12월 05일,dinner,모츠나베,일식,점심을 간단히 먹어서 든든하게 먹으려고,stressed,5
+12월 06일,lunch,라면,한식/국물,귀찮아서,neutral,3
+12월 06일,dinner,마라탕,중식,스트레스 해소,stressed,5
+12월 07일,lunch,파스타,양식,약속,stressed,3
+12월 07일,dinner,마라탕,한식,전날 시킨게 남아서,stressed,5
+12월 08일,lunch,제육볶음,한식,쌈 싸먹고 싶어서,happy,4
+12월 08일,dinner,치킨,양식/치킨,맥주 먹고 싶어서,neutral,5
+12월 09일,lunch,샐러드,양식,다이어트,neutral,3
+12월 09일,dinner,샌드위치,양식,다이어트,neutral,3
+12월 10일,lunch,돈까스,일식/튀김,좋아하는 메뉴라서,happy,5
+12월 10일,dinner,뼈해장국,한식/국물,배고파서,happy,5
+12월 11일,lunch,순두부찌개,한식/국물,든든한 게 필요해서,neutral,5
+12월 11일,dinner,회,일식,약속,neutral,4
+12월 12일,lunch,비빔밥,한식,간단히 먹으려고,tired,3
+12월 12일,dinner,된장찌개,한식/국물,먹고 싶은게 없어서,stressed,3
+12월 13일,lunch,라면,면류/국물,귀찮아서,tired,3
+12월 13일,dinner,소고기,한식,고기 먹고 싶어서,neutral,5
+12월 14일,lunch,비빔밥,한식,간단히 먹으려고,neutral,4
+12월 14일,dinner,오뎅탕,한식,소주 먹고 싶어서,happy,5
